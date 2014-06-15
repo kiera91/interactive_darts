@@ -170,47 +170,31 @@ transform:rotate(-54deg);
 -o-transform:rotate(-72deg);
 transform:rotate(-72deg);
 }
-.ringOne {width:446px; height:446px; border:2px solid #ddd; border-radius:450px; position:absolute; left:75px; top:75px; background:#363; box-shadow: inset 0 0 5px rgba(0,0,0,0.8);}
-.ringOne b {width:223px; height:223px; position:absolute; left:223px; top:0; overflow:hidden;
--webkit-transform-origin: 0 223px;
--moz-transform-origin: 0 223px;
--ms-transform-origin: 0 223px;
--o-transform-origin: 0 223px;
-transform-origin: 0 223px;
-}
-.ringOne b span {display:block;width:223px; height:223px; position:absolute; left:0; top:0; background:#a33; border-radius:0 223px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 223px;
--moz-transform-origin: 0 223px;
--ms-transform-origin: 0 223px;
--o-transform-origin: 0 223px;
-transform-origin: 0 223px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-.dartboard b.b1 {
+
+.dartboard b.b20 {
 -webkit-transform:rotate(-81deg) skewX(-72deg);
 -moz-transform:rotate(-81deg) skewX(-72deg);
 -ms-transform:rotate(-81deg) skewX(-72deg);
 -o-transform:rotate(-81deg) skewX(-72deg);
 transform:rotate(-81deg) skewX(-72deg);
 }
-.dartboard b.b2 {
+
+.dartboard b.b1 {
 -webkit-transform:rotate(-63deg) skewX(-72deg);
 -moz-transform:rotate(-63deg) skewX(-72deg);
 -ms-transform:rotate(-63deg) skewX(-72deg);
 -o-transform:rotate(-63deg) skewX(-72deg);
 transform:rotate(-63deg) skewX(-72deg);
 }
-.dartboard b.b3 {
+
+.dartboard b.b18 {
 -webkit-transform:rotate(-45deg) skewX(-72deg);
 -moz-transform:rotate(-45deg) skewX(-72deg);
 -ms-transform:rotate(-45deg) skewX(-72deg);
 -o-transform:rotate(-45deg) skewX(-72deg);
 transform:rotate(-45deg) skewX(-72deg);
 }
+
 .dartboard b.b4 {
 -webkit-transform:rotate(-27deg) skewX(-72deg);
 -moz-transform:rotate(-27deg) skewX(-72deg);
@@ -218,13 +202,15 @@ transform:rotate(-45deg) skewX(-72deg);
 -o-transform:rotate(-27deg) skewX(-72deg);
 transform:rotate(-27deg) skewX(-72deg);
 }
-.dartboard b.b5 {
+
+.dartboard b.b13 {
 -webkit-transform:rotate(-9deg) skewX(-72deg);
 -moz-transform:rotate(-9deg) skewX(-72deg);
 -ms-transform:rotate(-9deg) skewX(-72deg);
 -o-transform:rotate(-9deg) skewX(-72deg);
 transform:rotate(-9deg) skewX(-72deg);
 }
+
 .dartboard b.b6 {
 -webkit-transform:rotate(9deg) skewX(-72deg);
 -moz-transform:rotate(9deg) skewX(-72deg);
@@ -232,28 +218,29 @@ transform:rotate(-9deg) skewX(-72deg);
 -o-transform:rotate(9deg) skewX(-72deg);
 transform:rotate(9deg) skewX(-72deg);
 }
-.dartboard b.b7 {
+
+.dartboard b.b10 {
 -webkit-transform:rotate(27deg) skewX(-72deg);
 -moz-transform:rotate(27deg) skewX(-72deg);
 -ms-transform:rotate(27deg) skewX(-72deg);
 -o-transform:rotate(27deg) skewX(-72deg);
 transform:rotate(27deg) skewX(-72deg);
 }
-.dartboard b.b8 {
+.dartboard b.b15 {
 -webkit-transform:rotate(45deg) skewX(-72deg);
 -moz-transform:rotate(45deg) skewX(-72deg);
 -ms-transform:rotate(45deg) skewX(-72deg);
 -o-transform:rotate(45deg) skewX(-72deg);
 transform:rotate(45deg) skewX(-72deg);
 }
-.dartboard b.b9 {
+.dartboard b.b2 {
 -webkit-transform:rotate(63deg) skewX(-72deg);
 -moz-transform:rotate(63deg) skewX(-72deg);
 -ms-transform:rotate(63deg) skewX(-72deg);
 -o-transform:rotate(63deg) skewX(-72deg);
 transform:rotate(63deg) skewX(-72deg);
 }
-.dartboard b.b10 {
+.dartboard b.b17 {
 -webkit-transform:rotate(81deg) skewX(-72deg);
 -moz-transform:rotate(81deg) skewX(-72deg);
 -ms-transform:rotate(81deg) skewX(-72deg);
@@ -261,7 +248,7 @@ transform:rotate(63deg) skewX(-72deg);
 transform:rotate(81deg) skewX(-72deg);
 }
 
-.dartboard b.b11 {
+.dartboard b.b3 {
 -webkit-transform:rotate(99deg) skewX(-72deg);
 -moz-transform:rotate(99deg) skewX(-72deg);
 -ms-transform:rotate(99deg) skewX(-72deg);
@@ -269,7 +256,7 @@ transform:rotate(81deg) skewX(-72deg);
 transform:rotate(99deg) skewX(-72deg);
 }
 
-.dartboard b.b12 {
+.dartboard b.b19 {
 -webkit-transform:rotate(117deg) skewX(-72deg);
 -moz-transform:rotate(117deg) skewX(-72deg);
 -ms-transform:rotate(117deg) skewX(-72deg);
@@ -277,7 +264,7 @@ transform:rotate(99deg) skewX(-72deg);
 transform:rotate(117deg) skewX(-72deg);
 }
 
-.dartboard b.b13 {
+.dartboard b.b7 {
 -webkit-transform:rotate(135deg) skewX(-72deg);
 -moz-transform:rotate(135deg) skewX(-72deg);
 -ms-transform:rotate(135deg) skewX(-72deg);
@@ -285,7 +272,7 @@ transform:rotate(117deg) skewX(-72deg);
 transform:rotate(135deg) skewX(-72deg);
 }
 
-.dartboard b.b14 {
+.dartboard b.b16 {
 -webkit-transform:rotate(153deg) skewX(-72deg);
 -moz-transform:rotate(153deg) skewX(-72deg);
 -ms-transform:rotate(153deg) skewX(-72deg);
@@ -293,7 +280,7 @@ transform:rotate(135deg) skewX(-72deg);
 transform:rotate(153deg) skewX(-72deg);
 }
 
-.dartboard b.b15 {
+.dartboard b.b8 {
 -webkit-transform:rotate(171deg) skewX(-72deg);
 -moz-transform:rotate(171deg) skewX(-72deg);
 -ms-transform:rotate(171deg) skewX(-72deg);
@@ -301,7 +288,7 @@ transform:rotate(153deg) skewX(-72deg);
 transform:rotate(171deg) skewX(-72deg);
 }
 
-.dartboard b.b16 {
+.dartboard b.b11 {
 -webkit-transform:rotate(189deg) skewX(-72deg);
 -moz-transform:rotate(189deg) skewX(-72deg);
 -ms-transform:rotate(189deg) skewX(-72deg);
@@ -309,7 +296,7 @@ transform:rotate(171deg) skewX(-72deg);
 transform:rotate(189deg) skewX(-72deg);
 }
 
-.dartboard b.b17 {
+.dartboard b.b14 {
 -webkit-transform:rotate(207deg) skewX(-72deg);
 -moz-transform:rotate(207deg) skewX(-72deg);
 -ms-transform:rotate(207deg) skewX(-72deg);
@@ -317,7 +304,7 @@ transform:rotate(189deg) skewX(-72deg);
 transform:rotate(207deg) skewX(-72deg);
 }
 
-.dartboard b.b18 {
+.dartboard b.b9 {
 -webkit-transform:rotate(225deg) skewX(-72deg);
 -moz-transform:rotate(225deg) skewX(-72deg);
 -ms-transform:rotate(225deg) skewX(-72deg);
@@ -325,7 +312,7 @@ transform:rotate(207deg) skewX(-72deg);
 transform:rotate(225deg) skewX(-72deg);
 }
 
-.dartboard b.b19 {
+.dartboard b.b12 {
 -webkit-transform:rotate(243deg) skewX(-72deg);
 -moz-transform:rotate(243deg) skewX(-72deg);
 -ms-transform:rotate(243deg) skewX(-72deg);
@@ -333,7 +320,7 @@ transform:rotate(225deg) skewX(-72deg);
 transform:rotate(243deg) skewX(-72deg);
 }
 
-.dartboard b.b20 {
+.dartboard b.b5 {
 -webkit-transform:rotate(261deg) skewX(-72deg);
 -moz-transform:rotate(261deg) skewX(-72deg);
 -ms-transform:rotate(261deg) skewX(-72deg);
@@ -349,259 +336,43 @@ transform:rotate(261deg) skewX(-72deg);
 -o-transform-origin: 0 208px;
 transform-origin: 0 208px;
 }
-.ringTwo b.b1 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
+
+.ringTwo b.b20 span, .ringTwo b.b18 span, .ringTwo b.b13 span,
+.ringTwo b.b10 span, .ringTwo b.b2 span, .ringTwo b.b3 span,
+.ringTwo b.b7 span, .ringTwo b.b8 span, .ringTwo b.b14 span,
+.ringTwo b.b12 span
+{
+	display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
+	-webkit-transform-origin: 0 208px;
+	-moz-transform-origin: 0 208px;
+	-ms-transform-origin: 0 208px;
+	-o-transform-origin: 0 208px;
+	transform-origin: 0 208px;
+	-webkit-transform:skewX(72deg);
+	-moz-transform:skewX(72deg);
+	-ms-transform:skewX(72deg);
+	-o-transform:skewX(72deg);
+	transform:skewX(72deg);
 }
 
-.ringTwo b.b2 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
+.ringTwo b.b1 span, .ringTwo b.b4 span, .ringTwo b.b6 span,
+.ringTwo b.b15 span, .ringTwo b.b17 span, .ringTwo b.b19 span,
+.ringTwo b.b16 span, .ringTwo b.b11 span, .ringTwo b.b9 span,
+.ringTwo b.b5 span
+ {
+ 	display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
+	-webkit-transform-origin: 0 208px;
+	-moz-transform-origin: 0 208px;
+	-ms-transform-origin: 0 208px;
+	-o-transform-origin: 0 208px;
+	transform-origin: 0 208px;
+	-webkit-transform:skewX(72deg);
+	-moz-transform:skewX(72deg);
+	-ms-transform:skewX(72deg);
+	-o-transform:skewX(72deg);
+	transform:skewX(72deg);
 }
 
-.ringTwo b.b3 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b4 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b5 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b6 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b7 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b8 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b9 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b10 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b11 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b12 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b13 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-
-.ringTwo b.b14 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-.ringTwo b.b15 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-.ringTwo b.b16 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-.ringTwo b.b17 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-.ringTwo b.b18 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-.ringTwo b.b19 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#333; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
-.ringTwo b.b20 span {display:block;width:208px; height:208px; position:absolute; left:0; top:0; background:#eec; border-radius:0 208px 0 0; box-shadow:inset 0 0 5px rgba(0,0,0,0.8);
--webkit-transform-origin: 0 208px;
--moz-transform-origin: 0 208px;
--ms-transform-origin: 0 208px;
--o-transform-origin: 0 208px;
-transform-origin: 0 208px;
--webkit-transform:skewX(72deg);
--moz-transform:skewX(72deg);
--ms-transform:skewX(72deg);
--o-transform:skewX(72deg);
-transform:skewX(72deg);
-}
 .ringFive {width:48px; height:48px; border:2px solid #ddd; border-radius:48px; position:absolute; left:274px; top:274px; background:#363; box-shadow: 0 0 5px rgba(0,0,0,0.8); box-shadow: inset 0 0 5px rgba(0,0,0,0.8);}
 .ringSix {width:20px; height:20px; border:2px solid #ddd; border-radius:20px; position:absolute; left:288px; top:288px; background:#a33; box-shadow: 0 0 5px rgba(0,0,0,0.8); box-shadow: inset 0 0 5px rgba(0,0,0,0.8);}
 
