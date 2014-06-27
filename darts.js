@@ -7,6 +7,15 @@ $(document).ready(function(){
 	$('#popupBoxClose').click( function() {
 		unloadPopupBox();
 	});
+
+	$("tr").not(':first').hover(
+		function () {
+			$(this).css("background","yellow");
+		},
+		function () {
+			$(this).css("background","");
+		}
+	);
 });
 
 function showNewPlayer(){
