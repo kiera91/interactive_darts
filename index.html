@@ -2,8 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title> Stu Nicholls | CSSplay | CSS Dartboard </title>
-	<meta name="Description" content="CSS play - using css to draw a dartboard using no images" />
+	<title>Darts</title>
 	<meta name="Author" content="Kiera O'Reilly" />
 	<link rel="icon" href="../favicon.ico" type="image/ico" />
 	<link rel="stylesheet" media="all" type="text/css" href="default.css" />
@@ -11,11 +10,44 @@
 	<script src="darts.js" type="text/javascript"></script>
 </head>
 <body>
+
+	<div id="popup_box">    <!-- OUR PopupBox DIV-->
+    	<h1>Add new player</h1>
+    	<form id="details">
+            
+            <label> Name: </label>
+            <input type="text" id="name"/> <br>
+			<button type="button" onclick="registerNewPlayer()">Add</button>
+
+        </form>
+    	<a id="popupBoxClose">Close</a>    
+	</div>
+
 	<div id="wrapper">
 		<div id="content">
 			<div id="info">
 
 				<h2>CSS Dartboard using no images</h2>
+
+				<div class="scoreboard">
+					<table class="gridtable">
+						<tr>
+							<th>
+								Name
+							</th>
+							<th>
+								Current
+							</th>
+							<th>
+								Go
+							</th>
+						</tr>
+						<tbody>
+
+						</tbody>
+					</table>
+					<button type="button" onclick="showNewPlayer()">New player</button>
+				</div>
 
 				<div class="dartboard">
 					<div class="outerRing"></div>
@@ -124,9 +156,6 @@
 						<b class="x20"></b>
 					</div> -->
 				</div>
-
-			<p class="info">copyright &copy; stu nicholls - CSS play</p>
-
 		</div> <!-- end info -->
 	</div> <!-- end content -->
 
