@@ -18,7 +18,6 @@ table.gridtable td {
 	padding: 8px;
 	border-style: solid;
 	border-color: #666666;
-	background-color: #ffffff;
 }
 
 /* popup_box DIV-Styles*/
@@ -52,6 +51,8 @@ table.gridtable td {
     color:#6fa5e2;  
     font-weight:500;      
 }
+
+.hover { background-color:yellow; }
 
 /* ================================================================ 
 This copyright notice must be untouched at all times.
